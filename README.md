@@ -14,3 +14,22 @@
 Createed a method to perform above specified steps for incoming data
 
 - Applied LinearRegression, DecisionTreeRegressor and RandomForestRegressor ML modules on the data and perfromance measure checked using mse and rmse
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Learning channel source: https://www.youtube.com/@ShashankData
